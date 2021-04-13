@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saravanan2312
 - 👀 I’m interested in website development.
-- 💞️ I’m looking to collaborate with it ector
+- 💞️ I’m looking to collaborate with it sector
 - 📫 How to reach me saravanamanickam2312@gmail.com
 
 <!---
